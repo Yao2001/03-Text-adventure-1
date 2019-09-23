@@ -6,6 +6,8 @@ main_simple.py contains the code we worked out in class (or a close approximatio
 
 main.py is a little more complicated. 
 
+This gane is based on how to save the villagers. You have to break through all the previous levels, find the corresponding thing, can be successful clearance. Only after kai is defeated can all the villagers be rescued.  
+
 Features to add at some point
  * Objects in the world
  * inventory management

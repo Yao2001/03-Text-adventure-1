@@ -99,8 +99,8 @@ def main():
 
 
 
-    with open(gameFile) as json_file:
-        game = json.load(json_file)
+    with open(gameFile) as json_file:  # open是一个函数，参数是gamefile（是个变量），json file就是一个变量，抽象的代表文件的实体
+        game = json.load(json_file)  # 把json file的变量读到game里面
 
     moves = 0
     points = 0
