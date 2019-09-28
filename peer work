@@ -1,0 +1,30 @@
+Name: Luccas Hallow
+Date: 09/25/2019
+Project: 03-Text-Adventure
+Peer's repository: 
+https://github.com/luhallow/03-Text-adventure-1.git
+
+What is something you learned by reviewing your peer's project?
+To explain the json file in a more specific way. Define the location in the game, so that we don't have to repeat writting the name of the location every time.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+To connect all the rooms together can make this game more adventurous. It doesn't have to make the code more complicated, but can make the game having more interesting things. Richer stories make the story more logical.
+ 
+What suggestions would you have for your peer to improve his/her code?
+To improve the code, he can write down the location in a single list to make it clear.  
+
+What could have been clearer or better commented?
+He can give some instructions on the first few steps to make sure the player know how to play and what is going on.
+ 
+Was there anything in the code that was confusing to you? If so, what?
+No, there's not.
+
+Does the repository contain an appropriate LICENSE?
+Yes
+
+What is something he/she could add to the README.md to make it more descriptive?
+Add the locations in it and draw a map tp make sure the player know where they he is.
+ 
+Pay a compliment to your peer based on the quality of his/her code.
+He did a great job on planning the game. I learnt a lot of things from this. Especially the story is interesting.
+
